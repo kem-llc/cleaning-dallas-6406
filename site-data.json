@@ -1,156 +1,155 @@
 {
   "business": {
-    "name": "Sparkle & Shine House Cleaning",
-    "shortName": "Sparkle & Shine",
-    "tagline": "Dallas's Trusted Home Cleaning Experts",
+    "name": "Dallas Shine Clean",
+    "shortName": "Dallas Shine",
+    "tagline": "Expert House Cleaning in Dallas, TX",
     "niche": "House Cleaning",
     "phone": "(469) 563-6406",
     "address": "Dallas St, Dallas, TX 75228",
-    "hours": "Mon-Fri 8:00 AM - 6:00 PM, Sat 9:00 AM - 4:00 PM",
-    "ctaLabel": "Get a Free Estimate",
-    "headerCta": "Call Now",
-    "city": "Dallas, TX"
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 8am-6pm, Sat 9am-4pm",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Best House Cleaning in Dallas, TX | Sparkle & Shine",
-    "description": "Top-rated house cleaning in Dallas, TX. Eco-friendly products, 100% satisfaction guarantee. Book your deep clean or recurring service today!"
+    "title": "Top-Rated House Cleaning in Dallas, TX | Dallas Shine Clean",
+    "description": "Dallas Shine Clean offers premium house cleaning services in Dallas, TX. Eco-friendly products, insured team, 100% satisfaction guarantee. Book your free quote today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Cleaning Service",
-      "headline": "A Clean Home, A Clear Mind",
-      "subheadline": "Professional house cleaning tailored to your schedule. We bring the sparkle so you can relax.",
-      "primaryCta": "Book Now",
-      "secondaryCta": "Learn More"
+      "eyebrow": "Dallas's Trusted Cleaning Team Since 2015",
+      "headline": "Your Home, Sparkling Clean – Every Time",
+      "subheadline": "Professional house cleaning tailored to your schedule. Eco-friendly, reliable, and thorough.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "See Our Services"
     },
     "stats": [
       {
         "value": "500+",
-        "label": "Homes Cleaned"
+        "label": "Happy Homes"
       },
       {
-        "value": "98%",
-        "label": "Satisfaction Rate"
-      },
-      {
-        "value": "5.0",
+        "value": "4.9",
         "label": "Average Rating"
       },
       {
         "value": "10+",
         "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
         "eyebrow": "Eco-Friendly Cleaning",
         "title": "Safe for Your Family & Pets",
-        "body": "We use only non-toxic, biodegradable products that are tough on dirt but gentle on your home. No harsh chemicals, just a sparkling clean.",
+        "body": "We use only non-toxic, biodegradable cleaning products that are tough on dirt but gentle on your home. Breathe easy knowing your space is truly clean.",
         "bullets": [
-          "Green Seal certified products",
-          "Hypoallergenic options available",
-          "Safe for children and pets"
+          "Green-certified products",
+          "No harsh chemicals",
+          "Pet-safe & hypoallergenic"
         ],
         "reverse": false,
-        "cardLabel": "Deep Clean",
-        "cardTitle": "Restore Your Home's Shine",
-        "cardBody": "Our deep cleaning service tackles every nook and cranny, from baseboards to ceiling fans."
+        "cardLabel": "Service",
+        "cardTitle": "Deep Clean",
+        "cardBody": "Our signature deep clean reaches every nook and cranny, leaving your home spotless."
       },
       {
-        "eyebrow": "Customized Plans",
-        "title": "Cleaning That Fits Your Life",
-        "body": "Whether you need weekly maintenance or a one-time deep clean, we create a plan that works for you. Flexible scheduling and easy online booking.",
+        "eyebrow": "Flexible Scheduling",
+        "title": "Clean When It Works for You",
+        "body": "Get your full deposit back with our thorough move-out cleaning service.",
         "bullets": [
-          "Weekly, bi-weekly, or monthly visits",
-          "Move-in/move-out cleaning",
-          "Custom checklist for each visit"
+          "Online booking",
+          "Same-day availability",
+          "No long-term contracts"
         ],
         "reverse": true,
-        "cardLabel": "Recurring Service",
-        "cardTitle": "Always Come Home to Clean",
-        "cardBody": "Set it and forget it. Our recurring service ensures your home stays spotless without lifting a finger."
+        "cardLabel": "Service",
+        "cardTitle": "Move-Out Clean"
       }
     ],
-    "whyTitle": "Why Choose Sparkle & Shine?",
+    "whyTitle": "Why Dallas Shine Clean?",
     "whyChooseUs": [
       {
-        "title": "Trained & Insured Pros",
-        "description": "Every cleaner is background-checked, bonded, and thoroughly trained to deliver consistent quality."
+        "title": "Trained & Vetted Team",
+        "description": "Every cleaner is background-checked, insured, and trained to our high standards."
       },
       {
-        "title": "100% Satisfaction Guarantee",
-        "description": "If you're not happy, we'll re-clean for free. No questions asked."
+        "title": "Customized Cleaning Plans",
+        "description": "We tailor each clean to your home's unique needs – no cookie-cutter approach."
       },
       {
         "title": "Eco-Friendly Products",
         "description": "We prioritize your health and the planet with green cleaning solutions."
       },
       {
-        "title": "Flexible Scheduling",
-        "description": "Book online in minutes. Reschedule or cancel with ease — no hassle."
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy, we'll re-clean for free. No questions asked."
       }
     ],
     "testimonials": [
       {
-        "quote": "Sparkle & Shine transformed my home! Every corner was spotless. Highly recommend their deep clean service.",
+        "quote": "I've never had a cleaner that pays attention to detail like Dallas Shine. They even organized my pantry!",
         "author": "Sarah M.",
-        "role": "Lakewood homeowner"
+        "role": "Lakewood Homeowner"
       },
       {
-        "quote": "I love coming home to a clean house after work. Their recurring service is a lifesaver.",
-        "author": "David L.",
-        "role": "Uptown resident"
+        "quote": "Reliable, friendly, and my house smells amazing after every visit. Highly recommend!",
+        "author": "James L.",
+        "role": "Uptown Resident"
       },
       {
-        "quote": "Professional, thorough, and eco-friendly. Exactly what I was looking for.",
+        "quote": "After trying several companies, I finally found my go-to. They are thorough and always on time.",
         "author": "Emily R.",
-        "role": "Oak Lawn renter"
+        "role": "Oak Lawn Homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready for a Sparkling Clean Home?",
-      "subheadline": "Book your first cleaning today and see the Sparkle & Shine difference.",
+      "headline": "Ready for a Spotless Home?",
+      "subheadline": "Book your first cleaning today and see the Dallas Shine difference.",
       "primaryCta": "Get a Free Quote",
       "secondaryCta": "Call (469) 563-6406"
     }
   },
   "servicesPage": {
-    "intro": "From standard cleanings to deep scrubs, we offer a full range of house cleaning services designed to make your home shine. Every service is backed by our 100% satisfaction guarantee."
+    "intro": "We offer a full range of house cleaning services in Dallas, TX. From routine maintenance to deep cleans, our team delivers consistent, high-quality results."
   },
   "services": [
     {
       "icon": "01",
       "title": "Standard Cleaning",
-      "shortDescription": "Regular maintenance to keep your home fresh and tidy.",
-      "longDescription": "Our standard cleaning covers all the essentials: dusting, vacuuming, mopping, kitchen and bathroom scrubbing, and more. Perfect for weekly or bi-weekly upkeep.",
+      "shortDescription": "Regular upkeep to keep your home fresh and tidy.",
+      "longDescription": "Our standard cleaning service covers all the essentials: dusting, vacuuming, mopping, kitchen and bathroom sanitation, and more. Perfect for weekly or bi-weekly maintenance.",
       "benefits": [
-        "Consistent cleanliness between deep cleans",
-        "Saves you time and energy",
-        "Customizable to your preferences",
-        "Affordable flat-rate pricing"
+        "Consistent cleanliness",
+        "Affordable routine care",
+        "Flexible scheduling",
+        "Eco-friendly products"
       ],
       "process": [
         {
           "title": "Walkthrough",
-          "description": "We review your priorities and identify high-traffic areas."
+          "description": "We review your priorities and note any special requests."
         },
         {
-          "title": "Clean",
-          "description": "Our team systematically cleans each room using your preferred products."
+          "title": "Detailed Cleaning",
+          "description": "Our team follows a checklist to ensure every room is thoroughly cleaned."
         },
         {
-          "title": "Inspection",
-          "description": "We do a final walkthrough to ensure every detail meets our standards."
+          "title": "Final Inspection",
+          "description": "We do a quality check to make sure everything meets our standards."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a standard cleaning take?",
-          "answer": "Typically 1-3 hours depending on home size."
+          "question": "How long does a standard clean take?",
+          "answer": "Typically 1-2 hours depending on home size."
         },
         {
           "question": "Do I need to be home?",
-          "answer": "No, we can use a lockbox or key code for convenient access."
+          "answer": "No, many clients provide a key or code. We're bonded and insured."
         }
       ],
       "slug": "standard-cleaning"
@@ -158,121 +157,121 @@
     {
       "icon": "02",
       "title": "Deep Cleaning",
-      "shortDescription": "Intensive cleaning for neglected areas and tough grime.",
-      "longDescription": "Our deep cleaning goes beyond the surface to restore every corner of your home. We clean behind appliances, scrub grout, wash windows, and remove built-up dirt.",
+      "shortDescription": "Intensive clean for neglected areas and tough grime.",
+      "longDescription": "Our deep cleaning goes beyond the surface. We tackle baseboards, blinds, inside cabinets, behind appliances, and more. Ideal for spring cleaning or moving in.",
       "benefits": [
-        "Eliminates hidden allergens and dust",
-        "Restores the original shine of surfaces",
-        "Ideal for move-in/move-out or seasonal refresh",
-        "One-time service that makes a lasting difference"
+        "Removes built-up dirt",
+        "Reaches hidden areas",
+        "Leaves home like new",
+        "Includes fridge & oven"
       ],
       "process": [
         {
           "title": "Assessment",
-          "description": "We identify problem areas and discuss your goals."
+          "description": "We identify high-traffic areas and stubborn spots."
         },
         {
           "title": "Deep Scrub",
-          "description": "We use specialized tools and eco-friendly products to tackle grime."
+          "description": "We use specialized tools and products to deep clean every surface."
         },
         {
-          "title": "Final Polish",
-          "description": "Every surface is wiped down and left sparkling."
+          "title": "Sanitization",
+          "description": "All touchpoints are disinfected for a healthier home."
         }
       ],
       "faqs": [
         {
-          "question": "What's included in a deep cleaning?",
-          "answer": "Inside cabinets, oven, fridge, windows, blinds, baseboards, and more."
+          "question": "How often should I get a deep clean?",
+          "answer": "Every 3-6 months is recommended, or before special events."
         },
         {
-          "question": "How often should I get a deep cleaning?",
-          "answer": "We recommend every 3-6 months, or before special occasions."
+          "question": "Does it include windows?",
+          "answer": "Interior window sills and tracks are included; glass can be added."
         }
       ],
       "slug": "deep-cleaning"
     },
     {
       "icon": "03",
-      "title": "Move-In / Move-Out Cleaning",
+      "title": "Move-In/Move-Out Cleaning",
       "shortDescription": "Stress-free cleaning for your transition.",
-      "longDescription": "Make your move easier with a thorough cleaning that satisfies landlords and buyers. We clean every surface so you can focus on the move.",
+      "longDescription": "Make a great first impression or secure your deposit with our comprehensive move-in/move-out cleaning. We cover every corner so you can focus on the move.",
       "benefits": [
-        "Helps secure your deposit back",
-        "Makes your new home instantly livable",
-        "Covers all rooms, including garage and patio",
-        "Quick turnaround available"
+        "Full deposit recovery",
+        "Thorough empty-home clean",
+        "Includes appliances",
+        "Fast turnaround"
       ],
       "process": [
         {
-          "title": "Pre-Clean",
-          "description": "We remove loose debris and dust from all surfaces."
+          "title": "Pre-Move Checklist",
+          "description": "We confirm all areas to be cleaned, including storage spaces."
         },
         {
-          "title": "Detailed Cleaning",
-          "description": "We scrub kitchens, bathrooms, windows, and floors."
+          "title": "Full-Service Clean",
+          "description": "Every room, closet, and surface is cleaned top to bottom."
         },
         {
-          "title": "Final Check",
-          "description": "We ensure every area is spotless for your walkthrough."
+          "title": "Final Walkthrough",
+          "description": "We ensure the property is move-in ready."
         }
       ],
       "faqs": [
         {
-          "question": "Do you clean appliances?",
-          "answer": "Yes, we clean inside and outside of fridge, oven, and dishwasher."
+          "question": "Do you clean inside closets?",
+          "answer": "Yes, we clean all closets, shelves, and drawers."
         },
         {
-          "question": "Can you work around my moving schedule?",
-          "answer": "Absolutely. We offer flexible timing to accommodate your move."
+          "question": "Can I book last minute?",
+          "answer": "Absolutely, we offer same-day and next-day service when available."
         }
       ],
-      "slug": "move-in-move-out-cleaning"
+      "slug": "move-inmove-out-cleaning"
     },
     {
       "icon": "04",
-      "title": "Eco-Friendly Cleaning",
-      "shortDescription": "Green cleaning for health-conscious homes.",
-      "longDescription": "Our eco-friendly service uses only plant-based, non-toxic products that are safe for your family, pets, and the environment without compromising on cleanliness.",
+      "title": "Post-Construction Cleaning",
+      "shortDescription": "Remove dust and debris after renovation.",
+      "longDescription": "After construction, your home needs a special clean. We remove fine dust, debris, and residue from every surface, leaving your space safe and beautiful.",
       "benefits": [
-        "No harsh chemicals or fumes",
-        "Safe for children and pets",
-        "Biodegradable and sustainable",
-        "Same sparkling results as traditional cleaning"
+        "Removes construction dust",
+        "Cleans vents & fixtures",
+        "Polishes surfaces",
+        "Ready for occupancy"
       ],
       "process": [
         {
-          "title": "Product Selection",
-          "description": "We choose the right green products for your surfaces."
+          "title": "Debris Removal",
+          "description": "We clear large debris and vacuum thoroughly."
         },
         {
-          "title": "Gentle Cleaning",
-          "description": "We clean thoroughly using microfiber and eco-friendly solutions."
+          "title": "Detailed Dusting",
+          "description": "We wipe down all surfaces, including light fixtures and baseboards."
         },
         {
-          "title": "Green Verification",
-          "description": "We confirm all products used meet your eco-standards."
+          "title": "Final Polish",
+          "description": "Windows, mirrors, and floors are polished to a shine."
         }
       ],
       "faqs": [
         {
-          "question": "Are your products effective against germs?",
-          "answer": "Yes, our EPA Safer Choice products kill 99.9% of bacteria."
+          "question": "Is this safe for new floors?",
+          "answer": "Yes, we use appropriate products for all floor types."
         },
         {
-          "question": "Do you offer unscented options?",
-          "answer": "Yes, we can use fragrance-free products upon request."
+          "question": "How long does it take?",
+          "answer": "Depends on project size, but typically 3-6 hours for a standard home."
         }
       ],
-      "slug": "eco-friendly-cleaning"
+      "slug": "post-construction-cleaning"
     }
   ],
   "about": {
-    "headline": "Dallas's Trusted Cleaning Team",
-    "mission": "Our mission is to deliver exceptional cleaning services that give our clients more time to enjoy what matters most.",
+    "headline": "Your Local Cleaning Experts in Dallas",
+    "mission": "To provide exceptional, eco-friendly cleaning services that make your home a healthier, happier place.",
     "story": [
-      "Sparkle & Shine was founded in 2014 by two Dallas neighbors who saw a need for reliable, eco-friendly house cleaning. Starting with just a bucket and a dream, we've grown to a team of 20+ trained professionals serving hundreds of homes across the city.",
-      "We believe a clean home is the foundation for a happy life. That's why we invest in our team, use only safe products, and stand behind every clean with a 100% satisfaction guarantee. When you choose Sparkle & Shine, you're choosing peace of mind."
+      "Dallas Shine Clean was founded in 2015 by a team of cleaning professionals who saw a need for reliable, high-quality house cleaning in Dallas. Starting with just two cleaners, we grew through word-of-mouth by consistently exceeding expectations. Today, we serve hundreds of homes across the city, from Lakewood to Uptown.",
+      "Our commitment to eco-friendly practices and customer satisfaction has made us a trusted name in Dallas. We invest in our team with ongoing training and fair wages, ensuring every cleaner is motivated to deliver their best. We're proud to be part of the Dallas community and to help our clients enjoy cleaner, healthier homes."
     ],
     "highlight": {
       "stat": "500+",
@@ -281,39 +280,38 @@
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We do what we say, and we say what we do. Honest pricing, reliable service."
+        "description": "We show up on time, do what we promise, and respect your home."
       },
       {
         "title": "Excellence",
-        "description": "We never cut corners. Every clean is thorough and detail-oriented."
+        "description": "We never cut corners. Every clean is thorough and detailed."
       },
       {
         "title": "Sustainability",
-        "description": "We protect your home and the planet with green cleaning practices."
+        "description": "We choose green products to protect your family and the planet."
       },
       {
         "title": "Community",
-        "description": "We support local Dallas causes and treat every home like our own."
+        "description": "We support local businesses and give back to Dallas neighborhoods."
       }
     ]
   },
   "contact": {
     "headline": "Let's Get Your Home Sparkling",
     "subheadline": "Reach out today for a free, no-obligation quote.",
-    "primaryCta": "Book Online",
+    "primaryCta": "Get a Free Quote",
     "formCta": "Send Message",
     "serviceAreas": [
-      "Dallas",
-      "Highland Park",
-      "University Park",
       "Lakewood",
       "Uptown",
       "Oak Lawn",
-      "Preston Hollow"
+      "Highland Park",
+      "Preston Hollow",
+      "Downtown Dallas"
     ]
   },
   "social_proof": {
-    "rating": 5.0,
+    "rating": "",
     "reviews": null
   },
   "meta": {
